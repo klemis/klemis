@@ -1,5 +1,5 @@
-### Hi there 👋,
-I'm a passionate software developer with over 6 years of experience currently focusing mainly on the Go programming language. I have gained experience in both startups and huge enterprises, working with many technologies. I also hold a Master of Science in Information and Communication Technologies at the University of Science and Technology (AGH) in Cracow.
+### 👋 Hey there!
+I'm a code enthusiast with 6 years of software adventures. Right now, I'm all about the Go programming language. I've faced startup ups and downs 🎢 and tackled big company challenges 🏢, making tech my friend. I've got a Master's in tech stuff from AGH University 🎓. Let's code together! 🚀
 
 <!--
 **klemis/klemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
