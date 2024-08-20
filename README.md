@@ -1,5 +1,5 @@
 ### 👋 Hey there!
-I'm a code enthusiast with 6 years of software adventures. Right now, I'm all about the Go programming language. I've faced startup ups and downs 🎢 and tackled big company challenges 🏢, making tech my friend. I've got a Master's in tech stuff from AGH University 🎓. Let's code together! 🚀
+I'm a code enthusiast with 8 years of software adventures. Right now, I'm all about the Go programming language. I've faced startup ups and downs 🎢 and tackled big company challenges 🏢, making tech my friend. I've got a Master's in tech stuff from AGH University 🎓. Let's code together! 🚀
 
 <!--
 **klemis/klemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
