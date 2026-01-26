@@ -3,7 +3,8 @@ I'm Senior Go developer building backend systems.
 Microservices, monoliths, integrations - whatever fits the problem.
 I like readable code, explicit errors, and systems that are easy to operate.
 
-Creator of Access3 Web3 SaaS for automating Discord community management role and access control based on on-chain ownership https://access3.fun/
+Creator of Access3: Web3 SaaS for automating Discord community management role and access control based on on-chain ownership.
+https://access3.fun/
 
 <!--
 **klemis/klemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
